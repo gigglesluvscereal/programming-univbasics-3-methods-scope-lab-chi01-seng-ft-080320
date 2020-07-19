@@ -5,12 +5,12 @@ end
 
 def toadstool
   phrase = "Thank you Mario! But our Princess is in another castle!"
-  puts status
+  puts phrase
 end
 
 def link
-  receive_sword = "It\'s dangerous to go alone! Take this."
-  puts receive_sword
+  phrase = "It\'s dangerous to go alone! Take this."
+  puts phrase
 end
 
 def all_pharses
