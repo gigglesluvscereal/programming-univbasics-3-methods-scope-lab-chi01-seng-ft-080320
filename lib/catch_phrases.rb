@@ -13,6 +13,6 @@ def link
   puts receive_sword
 end
 
-def all_phares
+def all_pharses
   puts mario, toadstool, link
 end
